@@ -1,4 +1,4 @@
 git-basics
 ==========
 
-in which I begin to acquire mad skillz
+Remote, in which I begin to acquire git skillz
